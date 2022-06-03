@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Mridul-Sharma01/Mridul-Sharma01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hey there! I'm Mridul Sharma.</h2>
+<h2> Hey there!👋 I'm Mridul Sharma.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <br/>
 
 <a href="https://github.com/Mridul-Sharma01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mridul-Sharma01&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-Sharma01&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -68,10 +68,10 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.mridul_sharma.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/mridul-sharma-400507125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/mridulsharma2020/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mr.mridhulsharma@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.mridul_sharma.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.mridul_sharma.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/mridul-sharma-400507125/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-mridul%20sharma-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/mr.mridulsharma2020/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr.mridulsharma2020__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mr.mridhulsharma@gamil.com"><img alt="Email" src="https://img.shields.io/badge/Email-mr.mridhulsharma@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Mridul-Sharma](https://github.com/Mridul-Sharma01)
