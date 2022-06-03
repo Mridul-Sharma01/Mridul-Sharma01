@@ -33,8 +33,8 @@ Hi, I'm [Mridul Sharma](https://www.mridulsharma.com/), a Data Science Enthusias
 - 💬 Brainstorm with me over tech, algorithms, career, and music
 - 📫 How to reach me: +91-7347299066;
 - ⚡ Fun fact: My first line of code was not "Hello World!"
-- 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.mridulsharma.com/) Or [My Telegram bot Here](http://t.me/Mrdiul_chatbot)
-- 📝[Resume](https://www.MridulSharma.com/files/Mridul_Sharma_CV.pdf)
+- 🤖 Want to Know More About me? [Chat with me Here!!](https://wa.me/message/VPIDXYHN623P1) Or [My Telegram Here](http://t.me/Mrdiul_Sharma08)
+
 
 **Languages and Tools Used:**  
 
