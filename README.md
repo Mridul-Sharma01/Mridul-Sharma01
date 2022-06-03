@@ -24,7 +24,7 @@
 
 Hi, I'm [Mridul Sharma](https://www.mridulsharma.com/), a Data Science Enthusiast 🚀 from India, I'm a Data Scientist Intern 🙍🏽‍♂️ [Excelr Solutions](https://www.learn.excelr.com/), I built Machine Learning Models using Python during Intern. I Believe, I am Good with Data Cleaning, Exploratory Data Analysis, Model Building, Deployement. Having Experience working on projects in similar areas. I am an Data Analyst with very good Data Science Knowledge. I'm Post Graduate From Desh Bhagat University's Best Ranked University in Punjab.
 
-  <img align="right" alt="GIF" src="https://github.com/Mridul-Sharma01/Mridul-Sharma01/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Ashish-Gore/Ashish-Gore/blob/master/code.gif?raw=true" width="500" height="320" />
 
 **Talking about Personal Stuffs:**
 
