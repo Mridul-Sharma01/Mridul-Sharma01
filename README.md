@@ -58,10 +58,10 @@ Hi, I'm [Mridul Sharma](https://www.mridulsharma.com/), a Data Science Enthusias
 <br/>
 
 <a href="https://github.com/Mridul-Sharma01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mridul-Sharma01&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-Sharma01&theme=buefy&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mridul-Sharma01&theme=buefy&show_icons=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mridul-Sharma01&theme=buefy&layout=compact" />
 </a>
 
-
+<br/>
 
 ⭐️ From [Mridul-Sharma](https://github.com/Mridul-Sharma01)
